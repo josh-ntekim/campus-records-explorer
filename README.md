@@ -15,6 +15,7 @@ This project contains a fictional student dataset created with Python.
 
 ## Files
 - `campus_records_explorer.py` – Python program that creates and displays the dataset.
+- screenshots displayng the output.
 
 ## How to run
 1. Make sure Python 3 is installed.
